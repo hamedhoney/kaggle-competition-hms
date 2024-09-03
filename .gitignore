@@ -1,5 +1,6 @@
 # Exclude data
 data/*
-
+*/__pycache__
+.vscode
 # exception to the rule
-!data/.gitkeep 
+!data/.gitkeep

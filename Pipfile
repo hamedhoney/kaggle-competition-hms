@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+numpy = "*"
+pandas = "*"
+torch = "*"
+scipy = "*"
+torchaudio = "*"
+timm = "*"
+pyarrow = "*"
 
 [dev-packages]
 
