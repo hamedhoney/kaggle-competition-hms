@@ -6,11 +6,12 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
-torch = "*"
 scipy = "*"
+pyarrow = "*"
+torch = "*"
 torchaudio = "*"
 timm = "*"
-pyarrow = "*"
+opencv-python = "*"
 
 [dev-packages]
 
