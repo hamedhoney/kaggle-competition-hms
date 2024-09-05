@@ -11,6 +11,10 @@ pyarrow = "*"
 torch = "*"
 torchaudio = "*"
 timm = "*"
+<<<<<<< HEAD
+=======
+pyarrow = "*"
+>>>>>>> 4a96fd550eaaec7d2f70bd755e118f765b6e9e3f
 opencv-python = "*"
 
 [dev-packages]
