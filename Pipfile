@@ -11,6 +11,7 @@ scipy = "*"
 torchaudio = "*"
 timm = "*"
 pyarrow = "*"
+opencv-python = "*"
 
 [dev-packages]
 
